@@ -1,0 +1,42 @@
+.grid-view .group-process
+{
+	position:absolute;
+    /*margin: 0px 0px 0px 10px;*/
+    margin: 0px;
+}
+
+.grid-view .group-process ul
+{
+    display: inline;
+    padding-left: 0.5em;
+}
+
+.grid-view .group-process li
+{
+    display: inline;
+    padding: 0px 3px 0px 3px;
+}
+
+.grid-view .group-process select
+{
+	border: 1px solid #CCCCCC;
+    font-size: 11px;
+    width: 150px;
+}
+
+.grid-view .group-process .button
+{
+	background-color: white;
+    border: 1px solid #9AAFE5;
+    color: #0E509E;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 0 20px;
+}
+
+.grid-view .group-process li.select-all-arrow
+{
+    padding-left: 22px;
+    padding-top: 8px;
+    background: url("select_all_arrow.png") no-repeat left top;
+}

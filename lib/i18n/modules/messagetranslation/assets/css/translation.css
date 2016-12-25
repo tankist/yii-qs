@@ -1,0 +1,15 @@
+a.translation {
+    color: black;
+    text-decoration: none;
+}
+a.translation:hover {
+    text-decoration: underline;
+}
+
+a.translation-empty {
+    color: pink;
+    text-decoration: none;
+}
+a.translation-empty:hover {
+    text-decoration: underline;
+}
